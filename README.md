@@ -5,6 +5,7 @@ This is a DJ application with the following features:
 - Load songs into deck 1 or deck 2 to from the playlist
 - Adjust volume, speed and position
 - Reverb options
+
 The application remembers its state, so that when its loaded again, the playlist remains.
 
 ## Demo
